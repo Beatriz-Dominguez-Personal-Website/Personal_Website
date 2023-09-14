@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(229, 210, 196)
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    font-family: monospace;
+    color:darksalmon
+}
+h1{
+    font-size: 75px;
+    font-weight: bold;
+}
+.quote{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3opx;
+    color:rgb(181, 130, 185)
+}
+a {
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 75px;
+}
+img {
+    max-width: 100%;
+}
