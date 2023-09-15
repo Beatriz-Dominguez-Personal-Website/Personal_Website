@@ -6,11 +6,13 @@ body{
     display: flex;
     justify-content: space-around;
     font-family: monospace;
-    color:darksalmon
+    color:rgb(247, 160, 213);
+    background-color:rgb(203, 224, 243)
 }
-h1{
+.name {
     font-size: 75px;
     font-weight: bold;
+    margin-right: 500px ;
 }
 .quote{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -24,4 +26,24 @@ a {
 }
 img {
     max-width: 100%;
+}
+.second {
+    display:flex;
+    justify-content: space-around;
+}
+.mission {
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: bolder;
+    color: darksalmon;
+    background-color: rgb(240, 214, 205);
+    margin: 75px;
+    padding-top: 200px;
+    text-align: center;
+
+}
+.Cassis {
+    max-width: 75%;
+    border: 10px solid rgb(203, 224, 243);
+    flex
 }
