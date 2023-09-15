@@ -103,4 +103,30 @@ img{
 .noodle{
     max-width: 25%;
     border: 10px solid rgb(203, 224, 243);
-  )
+}
+.folio{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bolder;
+    color: darksalmon;
+    background-color: rgb(240, 214, 205);
+    margin: 5px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: left;
+    display: flex;
+    justify-content: space-around;
+}
+
+.folioheader{    
+    color:rgb(181, 130, 185);
+    background-color: rgb(250, 197, 230);
+    border: 10px solid rgb(203, 224, 243);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: left;
+    padding-left: 75px;
+}
