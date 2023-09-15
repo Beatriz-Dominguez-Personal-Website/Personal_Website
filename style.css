@@ -1,3 +1,4 @@
+
 body{
     background-color: rgb(229, 210, 196)
 }
@@ -24,14 +25,14 @@ a {
     font-size: 20px;
     margin-top: 75px;
 }
-img {
+img{
     max-width: 100%;
 }
-.second {
+.second{
     display:flex;
     justify-content: space-around;
 }
-.mission {
+.mission{
     font-family: monospace;
     font-size: 50px;
     font-weight: bolder;
@@ -40,10 +41,66 @@ img {
     margin: 75px;
     padding-top: 200px;
     text-align: center;
-
 }
-.Cassis {
+.Cassis{
     max-width: 75%;
     border: 10px solid rgb(203, 224, 243);
     flex
 }
+.intro{
+    color:rgb(250, 136, 97);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.firsthobby{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bolder;
+    color: darksalmon;
+    background-color: rgb(240, 214, 205);
+    margin: 75px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.secondhobby{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bolder;
+    color: darksalmon;
+    background-color: rgb(240, 214, 205);
+    margin: 75px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.thirdhobby{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bolder;
+    color: darksalmon;
+    background-color: rgb(240, 214, 205);
+    margin: 75px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.hike{
+    max-width: 25%;
+    border: 10px solid rgb(203, 224, 243);
+}
+.garden{
+    max-width: 25%;
+    border: 10px solid rgb(203, 224, 243);
+}
+.noodle{
+    max-width: 25%;
+    border: 10px solid rgb(203, 224, 243);
+  )
