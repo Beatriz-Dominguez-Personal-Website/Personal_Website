@@ -131,3 +131,25 @@ img{
     padding-left: 75px;
 }
 
+.contact {
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: bolder;
+    color: darksalmon;
+    background-color: rgb(240, 214, 205);
+    margin: 75px;
+    padding: 50px;
+    text-align: center;
+}
+
+form {
+    margin-top: 100px;
+    color: rgb(59, 69, 160);
+    font-weight: 1000;
+    padding: 10px;
+}
+
+input {
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
